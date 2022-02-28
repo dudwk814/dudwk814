@@ -12,7 +12,7 @@ Hi there 👋
 
 <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwk814&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwk814&show_icons=true&theme=radical) -->
 <!--
 **dudwk814/dudwk814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
