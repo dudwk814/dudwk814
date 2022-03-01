@@ -1,7 +1,12 @@
 
 Hi there 👋
 
-👨‍💻 **Skills**👨‍💻
+😄 Me 😄 
+
+<a href="https://www.notion.so/4a51b930829240f194126ecb5ffa0be1" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://kj99658103.tistory.com/" target="_blank"><img alt="TISTORY" src ="https://img.shields.io/badge/Blog-FF6A00.svg?&style=flat&logo=TISTORY&logoColor=white"/></a>
+
+👨‍💻**Skills**👨‍💻
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 
