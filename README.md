@@ -3,7 +3,7 @@ Hi there 👋
 
 😄 Me 😄 
 
-<a href="https://www.notion.so/4a51b930829240f194126ecb5ffa0be1" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://chalk-cairnsmore-411.notion.site/4a51b930829240f194126ecb5ffa0be1" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
 <a href="https://kj99658103.tistory.com/" target="_blank"><img alt="TISTORY" src ="https://img.shields.io/badge/Blog-FF6A00.svg?&style=flat&logo=TISTORY&logoColor=white"/></a>
 
 👨‍💻**Skills**👨‍💻
